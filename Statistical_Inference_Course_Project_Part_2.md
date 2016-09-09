@@ -116,7 +116,7 @@ Exploration of data and construction of plot
             labs(title="Dose in milligrams/day", x= "dose", y= "length of odontoblasts")
     g
 
-![](Statistical_Inference_Course_Project_Part_2_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](https://github.com/xetaro/Statistical-Inference-Course-Project-/blob/master/plot4.png)
 
 Length of odontoblasts increase if dose increase.
 
@@ -128,7 +128,7 @@ Length of odontoblasts increase if dose increase.
             labs(title="Dose in milligrams/day", x= "dose", y= "length of odontoblasts")
     x
 
-![](Statistical_Inference_Course_Project_Part_2_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![](https://github.com/xetaro/Statistical-Inference-Course-Project-/blob/master/plot5.png)
 
 With dose = 2 mg the difference between average of the two groups
 decreases.
@@ -140,7 +140,7 @@ decreases.
             labs(title="Supplement type", x= "supplement", y= "length of odontoblasts")
     p
 
-![](Statistical_Inference_Course_Project_Part_2_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](https://github.com/xetaro/Statistical-Inference-Course-Project-/blob/master/plot6.png)
 
 Length of odontoblasts increase if vitamin C delivery with orange juice.
 
