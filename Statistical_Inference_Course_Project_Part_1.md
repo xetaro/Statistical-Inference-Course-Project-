@@ -82,7 +82,7 @@ Calculate mean of exponentials
          labs(title="Distribution sample means of 1000 Samples",x = "Means", y="N° simulations")
     print(g)
 
-![](Statistical_Inference_Course_Project_Part_1_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](https://github.com/xetaro/Statistical-Inference-Course-Project-/blob/master/plot1.png)
 
 We can see that simulated mean is very close to theoretical mean.
 
@@ -131,14 +131,14 @@ standard deviation and variance.
                      size=1) +
        labs(title="Distribution of averages of 1000 samples", x="Simulation Means")
 
-![](Statistical_Inference_Course_Project_Part_1_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](https://github.com/xetaro/Statistical-Inference-Course-Project-/blob/master/plot2.png)
 
 2. Compare our distribution with normal distribution.
 -----------------------------------------------------
 
     qqnorm(meanExp, col="5"); qqline(meanExp, col="2")
 
-![](Statistical_Inference_Course_Project_Part_1_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](https://github.com/xetaro/Statistical-Inference-Course-Project-/blob/master/plot3.png)
 
 This plots show us that distribution of simulated mean is approximately
 normal.
